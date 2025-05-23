@@ -1,0 +1,49 @@
+{
+  "name": "@gyovannyvpn123/whatsapp-core",
+  "version": "1.0.0",
+  "description": "Production-ready WhatsApp Web library for Node.js with QR code and pairing code authentication",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "start": "node examples/complete-example.js",
+    "test": "node test-complete-whatsapp.js",
+    "test:qr": "node whatsapp-qr-visual.js",
+    "test:pairing": "node whatsapp-pairing-auth.js",
+    "test:ascii": "node test-qr-ascii.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-web",
+    "whatsapp-api",
+    "baileys",
+    "messaging",
+    "qr-code",
+    "pairing-code",
+    "typescript",
+    "nodejs",
+    "production-ready"
+  ],
+  "author": {
+    "name": "gyovannyvpn123",
+    "email": "mdanut159@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyovannyvpn123/Whatsapp-web.js-core.git"
+  },
+  "dependencies": {
+    "@noble/curves": "^1.2.0",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "@types/ws": "^8.5.8",
+    "typescript": "^5.2.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
