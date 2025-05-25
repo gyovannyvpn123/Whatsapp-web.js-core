@@ -77,15 +77,15 @@ O bibliotecă WhatsApp Web completă pentru Node.js, implementând protocolul Wh
 ### Installation
 
 ```bash
-npm install @ourorg/whatsapp-core
+npm install whatsapp-core
 # or
-yarn add @ourorg/whatsapp-core
+yarn add whatsapp-core
 ```
 
 ### Basic Usage
 
 ```javascript
-import WhatsAppCore from '@ourorg/whatsapp-core';
+import WhatsAppCore from 'whatsapp-core';
 
 // Initialize with QR code authentication
 const wa = new WhatsAppCore({
