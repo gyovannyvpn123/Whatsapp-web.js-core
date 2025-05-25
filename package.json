@@ -1,6 +1,6 @@
 {
   "name": "@gyovannyvpn123/whatsapp-core",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Production-ready WhatsApp Web library for Node.js with QR code and pairing code authentication - Termux Compatible",
   "main": "src/index.js",
   "types": "src/index.d.ts",
