@@ -1,6 +1,6 @@
-# @ourorg/whatsapp-core
+# WhatsApp Web Core - Compatibil cu Termux
 
-A production-ready, feature-complete WhatsApp Web library for Node.js, implementing the full WhatsApp Web protocol with QR code and pairing code authentication.
+O bibliotecă WhatsApp Web completă pentru Node.js, implementând protocolul WhatsApp Web cu autentificare prin cod QR și cod de asociere. Versiunea aceasta este special optimizată pentru compatibilitate cu Termux și alte medii restrictive.
 
 ![WhatsApp Core](https://img.shields.io/badge/WhatsApp-Core-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
