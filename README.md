@@ -1,3 +1,7 @@
+Be careful, this library only contains type script (Ts) files, when installing you have to compile them yourself into js files, you will have to set npm run build, to make the js files
+
+
+
 # WhatsApp Web Core - Compatibil cu Termux
 
 O bibliotecă WhatsApp Web completă pentru Node.js, implementând protocolul WhatsApp Web cu autentificare prin cod QR și cod de asociere. Versiunea aceasta este special optimizată pentru compatibilitate cu Termux și alte medii restrictive.
